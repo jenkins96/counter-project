@@ -41,7 +41,7 @@ buttons.forEach((element) => {
            counter.style.background = "red";
        }
       // Setting positive values green and negatives values red
-      counter.innerHTML > 0 ? counter.style.color = "green": counter.style.color = "red";
+      //counter.innerHTML > 0 ? counter.style.color = "green": counter.style.color = "red";
     }) 
 });
 })();
